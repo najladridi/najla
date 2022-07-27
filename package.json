@@ -1,0 +1,19 @@
+{
+  "name": "najla-",
+  "version": "1.0.0",
+  "description": "A git workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D"
+  },
+  "keywords": [
+    "git",
+    "programming"
+  ],
+  "author": "najla ok",
+  "license": "ISC"
+}
